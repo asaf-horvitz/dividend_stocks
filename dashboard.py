@@ -123,58 +123,64 @@ app = dash.Dash(__name__)
 df = load_data()
 
 app.layout = html.Div([
-    html.H1("Dividend Stocks"),
-    html.H3(f"Total Stocks: {len(df)}"),
-    dash_table.DataTable(
-        id='table',
-        columns=[
-            {"name": "Symbol", "id": "Symbol"},
-            {"name": "Yearly Dividend", "id": "Yearly Dividend"},
-            {"name": "Market Cap (Billions)", "id": "Market Cap"}
-        ],
-        data=df.to_dict('records'),
-        sort_action="custom",
-        sort_mode="single",
-        sort_by=[],
-        page_action='none',
-        style_cell={
-            'textAlign': 'left',
-            'minWidth': '100px', 'width': '150px', 'maxWidth': '300px',
-            'whiteSpace': 'normal'
-        },
-        style_header={
-            'backgroundColor': 'rgb(230, 230, 230)',
-            'fontWeight': 'bold'
-        },
-        style_data={
-            'whiteSpace': 'normal',
-            'height': 'auto',
-        },
-        tooltip_data=[
-            {'Yearly Dividend': {'value': row['tooltip'], 'type': 'markdown'}} 
-            for row in df.to_dict('records')
-        ],
-        tooltip_duration=None,
-        css=[{
-            'selector': '.dash-table-tooltip',
-            'rule': '''
-                background-color: white;
-                font-family: monospace;
-                min-width: 200px;
-                z-index: 1000;
-                position: fixed;
-                top: 50%;
-                left: 50%;
-                transform: translate(-50%, -50%);
-                border: 1px solid #ccc;
-                box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-            '''
-        }],
-        virtualization=True,
-        fixed_rows={'headers': True},
-        style_table={'height': '800px', 'overflowY': 'auto'}
-    )
-])
+    html.Div([
+        html.H1("Dividend Stocks Summary", style={'margin': '0', 'marginRight': '20px', 'lineHeight': '60px'}),
+        html.H3(f"Total Stocks: {len(df)}", style={'margin': '0', 'lineHeight': '60px'})
+    ], style={'height': '60px', 'padding': '0 20px', 'display': 'flex', 'alignItems': 'center', 'backgroundColor': '#f9f9f9', 'borderBottom': '1px solid #ddd'}),
+    html.Div([
+        dash_table.DataTable(
+            id='table',
+            columns=[
+                {"name": "Symbol", "id": "Symbol"},
+                {"name": "Yearly Dividend", "id": "Yearly Dividend"},
+                {"name": "Market Cap (Billions)", "id": "Market Cap"}
+            ],
+            data=df.to_dict('records'),
+            sort_action="custom",
+            sort_mode="single",
+            sort_by=[],
+            page_action='none',
+            style_cell={
+                'textAlign': 'left',
+                'width': '33%',
+                'minWidth': '100px',
+                'maxWidth': '500px',
+                'whiteSpace': 'normal'
+            },
+            style_header={
+                'backgroundColor': 'rgb(230, 230, 230)',
+                'fontWeight': 'bold'
+            },
+            style_data={
+                'whiteSpace': 'normal',
+                'height': 'auto',
+            },
+            tooltip_data=[
+                {'Yearly Dividend': {'value': row['tooltip'], 'type': 'markdown'}} 
+                for row in df.to_dict('records')
+            ],
+            tooltip_duration=None,
+            css=[{
+                'selector': '.dash-table-tooltip',
+                'rule': '''
+                    background-color: white;
+                    font-family: monospace;
+                    min-width: 200px;
+                    z-index: 1000;
+                    position: fixed;
+                    top: 50%;
+                    left: 50%;
+                    transform: translate(-50%, -50%);
+                    border: 1px solid #ccc;
+                    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+                '''
+            }],
+            virtualization=True,
+            fixed_rows={'headers': True},
+            style_table={'height': 'calc(100vh - 70px)', 'maxHeight': 'calc(100vh - 70px)', 'overflowY': 'auto'}
+        )
+    ])
+], style={'height': '100vh', 'overflow': 'hidden'})
 
 @app.callback(
     [Output('table', 'data'), Output('table', 'tooltip_data')],
