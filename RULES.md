@@ -21,4 +21,6 @@
 - **Docstrings**: Include docstrings for all functions and classes (Google style recommended).
 - **Error Handling**: Use specific exceptions and avoid bare `except:`.
 - **String Formatting**: Prefer f-strings.
-- **Imports**: Group imports (Standard Library, Third Party, Local).
+- **Function Length**: Keep functions short (15-20 lines).
+- **Single Responsibility**: Each function should do exactly one thing.
+- **Import Grouping**: Standard library first, then third-party, then local.
