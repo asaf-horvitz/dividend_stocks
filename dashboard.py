@@ -40,6 +40,7 @@ def load_data():
     # Format the display column
     df["Market Cap"] = df["Market Cap Value"].apply(format_market_cap)
     
+    print(f"Loaded {len(df)} stocks.")
     return df[["Symbol", "Market Cap", "Market Cap Value"]]
 
 app = dash.Dash(__name__)
@@ -48,6 +49,7 @@ df = load_data()
 
 app.layout = html.Div([
     html.H1("Dividend Stocks"),
+    html.H3(f"Total Stocks: {len(df)}"),
     dash_table.DataTable(
         id='table',
         columns=[
@@ -58,11 +60,16 @@ app.layout = html.Div([
         sort_action="custom",
         sort_mode="single",
         sort_by=[],
+        page_action='none',  # Disable pagination to show all rows
         style_cell={'textAlign': 'left'},
         style_header={
             'backgroundColor': 'rgb(230, 230, 230)',
             'fontWeight': 'bold'
-        }
+        },
+        # Add virtual scrolling for better performance with many rows
+        virtualization=True,
+        fixed_rows={'headers': True},
+        style_table={'height': '800px', 'overflowY': 'auto'}
     )
 ])
 
