@@ -1,510 +1,510 @@
-AAL
-AAON
-AAPL
-ABLLL
-ACGL
-ACGLN
-ACGLO
-ACT
-ADAMI
-ADAML
-ADAMM
-ADAMN
-ADAMZ
-ADBE
-ADEA
-ADI
-ADP
-ADSK
-AEIS
-AEP
-AFYA
-AGNC
-AGNCL
-AGNCM
-AGNCN
-AGNCO
-AGNCP
-AGYS
-ALGT
-AMAT
-AMGN
-AMKR
-ANDE
-APA
-ARCB
-ARCC
-ARHS
-ARLP
-ASML
-ASO
-ASTE
-ATAT
-ATRO
-AUGO
-AVGO
-AVT
-AZN
-AZTA
-BANF
-BANR
-BCPC
-BELFA
-BELFB
-BFC
-BGC
-BHRB
-BKNG
-BKR
-BLKB
-BNTX
-BOKF
-BPOP
-BPOPM
-BPYPM
-BPYPN
-BPYPO
-BPYPP
-BRKR
-BRKRP
-BSY
-BTSGU
-BUSE
-BUSEP
-BZ
-CAKE
-CALM
-CAMT
-CAR
-CASH
-CASY
-CATY
-CBSH
-CCEC
-CCEP
-CCLDO
-CDW
-CDZIP
-CECO
-CEG
-CENX
-CG
-CGABL
-CGNX
-CHA
-CHCO
-CHDN
-CHRD
-CHRW
-CIGI
-CINF
-CLMT
-CMCSA
-CME
-CNOB
-CNOBP
-CNXC
-CNXN
-COHU
-COKE
-COLB
-COLM
-COO
-COST
-CPB
-CRAI
-CRCT
-CSCO
-CSGS
-CSQ
-CSWC
-CSX
-CTAS
-CTBI
-CTSH
-CVBF
-DCOM
-DCOMG
-DHC
-DHCNI
-DHCNL
-DLO
-DMLP
-DOOO
-DOX
-DPZ
-DRH
-DRS
-DSGR
-EA
-EBAY
-EBC
-EFSC
-ENSG
-ENTG
-EQIX
-ERIC
-ERIE
-ESLT
-EVRG
-EWBC
-EXC
-EXE
-EXPE
-EXPI
-EXPO
-EZPW
-FA
-FANG
-FAST
-FBNC
-FCFS
-FCNCA
-FELE
-FER
-FFBC
-FFIN
-FHB
-FIBK
-FITB
-FITBI
-FITBO
-FITBP
-FIZZ
-FORTY
-FOX
-FOXA
-FRME
-FRMEP
-FSV
-FTAI
-FTAIM
-FTAIN
-FULT
-FULTP
-FUTU
-GABC
-GBDC
-GCMG
-GEHC
-GEN
-GGAL
-GILD
-GLNG
-GLPI
-GNTX
-GOODN
-GOOG
-GOOGL
-GRFS
-GSHD
-GT
-GTX
-HAS
-HBAN
-HBANL
-HBANM
-HBANP
-HCSG
-HIMX
-HLNE
-HON
-HOPE
-HSII
-HST
-HTHT
-HTO
-HUBG
-HWC
-HWCPZ
-HWKN
-IAC
-IBKR
-IBOC
-ICFI
-IDCC
-IEP
-IGIC
-IMKTA
-IMOS
-IMPPP
-INDB
-INTC
-INTR
-INTU
-INVA
-IOSP
-IPAR
-IPGP
-IRDM
-IRMD
-JBHT
-JCAP
-JD
-JJSF
-JKHY
-JOYY
-JSM
-KALU
-KARO
-KDP
-KHC
-KLAC
-KLIC
-KMB
-KSPI
-LAMR
-LAUR
-LBRDP
-LECO
-LFMDP
-LFUS
-LIN
-LINE
-LKFN
-LKQ
-LMAT
-LNT
-LOGI
-LPLA
-LRCX
-LSTR
-MAR
-MAT
-MBIN
-MBINL
-MBINM
-MCHB
-MCHP
-MCHPP
-MCRI
-MDLZ
-MELI
-MEOH
-META
-METC
-MFIC
-MFICL
-MGEE
-MGIC
-MGRC
-MIDD
-MKSI
-MKTX
-MLCO
-MLKN
-MOMO
-MORN
-MPWR
-MRVL
-MRX
-MSFT
-MTCH
-MU
-MZTI
-NAVI
-NBTB
-NDAQ
-NDSN
-NICE
-NMFCZ
-NMRK
-NSSC
-NTAP
-NTES
-NTRS
-NTRSO
-NVDA
-NWBI
-NWE
-NWL
-NWS
-NWSA
-NXPI
-NXST
-OCFC
-OCSL
-ODFL
-OLED
-OMAB
-ONB
-ONBPO
-ONBPP
-OPRA
-ORKA
-OSBC
-OSW
-OTEX
-OTTR
-OXLC
-OXLCL
-OXLCN
-OXLCO
-OXLCP
-OXLCZ
-OXSQG
-OZK
-OZKAP
-PAA
-PAGP
-PAHC
-PATK
-PAX
-PAYX
-PCAR
-PCH
-PEBO
-PECO
-PEGA
-PEP
-PFBC
-PFG
-PLPC
-PLTK
-PLUS
-PNFP
-PNFPP
-POOL
-POWI
-POWL
-POWWP
-PPC
-PRDO
-PRGS
-PSEC
-PSKY
-PSMT
-PTEN
-PWP
-PYPL
-PZZA
-QCOM
-QCRH
-QFIN
-RBCAA
-REG
-REGCO
-REGCP
-REGN
-REYN
-RGLD
-RIOT
-ROCK
-ROP
-ROST
-RPRX
-RRR
-RUSHA
-RUSHB
-RYAAY
-SAFT
-SAIC
-SATA
-SBAC
-SBCF
-SBGI
-SBLK
-SBRA
-SBUX
-SEIC
-SFD
-SFNC
-SHOO
-SIGI
-SIGIP
-SIMO
-SIRI
-SKYW
-SLM
-SLMBP
-SNY
-SPNS
-SRCE
-SSNC
-SSRM
-STBA
-STEP
-STGW
-STLD
-STRA
-STRC
-STRD
-STRF
-STRK
-STX
-SWKS
-SYBT
-TCBK
-TCOM
-TECH
-TER
-TFSL
-TIGO
-TILE
-TMUS
-TOWN
-TPG
-TPGXL
-TRI
-TRIN
-TRINI
-TRINZ
-TRIP
-TRMD
-TRMK
-TROW
-TRS
-TSCO
-TSEM
-TTEK
-TW
-TXN
-TXRH
-UBSI
-UFPI
-UMBF
-UMBFO
-UNIT
-UPBD
-USLM
-VC
-VCTR
-VEON
-VLY
-VLYPN
-VLYPO
-VLYPP
-VNOM
-VOD
-VRSK
-VRSN
-VSEC
-VTRS
-WABC
-WAFD
-WAFDP
-WB
-WDC
-WDFC
-WEN
-WERN
-WFRD
-WINA
-WING
-WMG
-WSBC
-WSBCO
-WSC
-WSFS
-WTFC
-WTFCN
-WTW
-WULF
-WWD
-WYNN
-XEL
-XP
-XRAY
-ZD
-ZION
-ZIONP
+AAL,Consumer Discretionary
+AAON,Industrials
+AAPL,Technology
+ABLLL,Finance
+ACGL,Finance
+ACGLN,Finance
+ACGLO,Finance
+ACT,Finance
+ADAMI,Real Estate
+ADAML,Real Estate
+ADAMM,Real Estate
+ADAMN,Real Estate
+ADAMZ,Real Estate
+ADBE,Technology
+ADEA,Technology
+ADI,Technology
+ADP,Industrials
+ADSK,Technology
+AEIS,Technology
+AEP,Utilities
+AFYA,Real Estate
+AGNC,Real Estate
+AGNCL,Real Estate
+AGNCM,Real Estate
+AGNCN,Real Estate
+AGNCO,Real Estate
+AGNCP,Real Estate
+AGYS,Technology
+ALGT,Consumer Discretionary
+AMAT,Technology
+AMGN,Health Care
+AMKR,Technology
+ANDE,Industrials
+APA,Energy
+ARCB,Industrials
+ARCC,Finance
+ARHS,Consumer Discretionary
+ARLP,Energy
+ASML,Technology
+ASO,Consumer Discretionary
+ASTE,Industrials
+ATAT,Consumer Discretionary
+ATRO,Industrials
+AUGO,
+AVGO,Technology
+AVT,Technology
+AZN,Health Care
+AZTA,Technology
+BANF,Finance
+BANR,Finance
+BCPC,Industrials
+BELFA,
+BELFB,
+BFC,Finance
+BGC,Finance
+BHRB,Finance
+BKNG,Consumer Discretionary
+BKR,Consumer Discretionary
+BLKB,Technology
+BNTX,Health Care
+BOKF,Finance
+BPOP,Finance
+BPOPM,Finance
+BPYPM,Finance
+BPYPN,Finance
+BPYPO,Finance
+BPYPP,Finance
+BRKR,Industrials
+BRKRP,Industrials
+BSY,Technology
+BTSGU,Health Care
+BUSE,Finance
+BUSEP,Finance
+BZ,Technology
+CAKE,Consumer Discretionary
+CALM,Consumer Staples
+CAMT,Technology
+CAR,Consumer Discretionary
+CASH,Finance
+CASY,Consumer Discretionary
+CATY,Finance
+CBSH,Finance
+CCEC,Consumer Discretionary
+CCEP,Consumer Staples
+CCLDO,Technology
+CDW,Technology
+CDZIP,Utilities
+CECO,Industrials
+CEG,Utilities
+CENX,Industrials
+CG,Finance
+CGABL,Finance
+CGNX,Industrials
+CHA,Consumer Discretionary
+CHCO,Finance
+CHDN,Consumer Discretionary
+CHRD,Energy
+CHRW,Industrials
+CIGI,Finance
+CINF,Finance
+CLMT,Energy
+CMCSA,Telecommunications
+CME,Finance
+CNOB,Finance
+CNOBP,Finance
+CNXC,Technology
+CNXN,Consumer Discretionary
+COHU,Industrials
+COKE,Consumer Staples
+COLB,Finance
+COLM,Consumer Discretionary
+COO,Health Care
+COST,Consumer Discretionary
+CPB,Consumer Staples
+CRAI,Consumer Discretionary
+CRCT,Technology
+CSCO,Telecommunications
+CSGS,Technology
+CSQ,Finance
+CSWC,Consumer Discretionary
+CSX,Industrials
+CTAS,Industrials
+CTBI,Finance
+CTSH,Technology
+CVBF,Finance
+DCOM,Finance
+DCOMG,Finance
+DHC,Real Estate
+DHCNI,Real Estate
+DHCNL,Real Estate
+DLO,Real Estate
+DMLP,Energy
+DOOO,Unknown
+DOX,Technology
+DPZ,Consumer Discretionary
+DRH,Real Estate
+DRS,Industrials
+DSGR,Consumer Discretionary
+EA,Consumer Discretionary
+EBAY,Real Estate
+EBC,Finance
+EFSC,Finance
+ENSG,Health Care
+ENTG,Industrials
+EQIX,Real Estate
+ERIC,Technology
+ERIE,Finance
+ESLT,Industrials
+EVRG,Utilities
+EWBC,Finance
+EXC,Utilities
+EXE,Energy
+EXPE,Consumer Discretionary
+EXPI,Finance
+EXPO,Consumer Discretionary
+EZPW,Consumer Discretionary
+FA,Technology
+FANG,Energy
+FAST,Consumer Discretionary
+FBNC,Finance
+FCFS,Consumer Discretionary
+FCNCA,Finance
+FELE,Consumer Discretionary
+FER,Industrials
+FFBC,Finance
+FFIN,Finance
+FHB,Finance
+FIBK,Finance
+FITB,Finance
+FITBI,Finance
+FITBO,Finance
+FITBP,Finance
+FIZZ,Consumer Staples
+FORTY,Technology
+FOX,Industrials
+FOXA,Industrials
+FRME,Finance
+FRMEP,Finance
+FSV,Finance
+FTAI,Industrials
+FTAIM,Industrials
+FTAIN,Industrials
+FULT,Finance
+FULTP,Finance
+FUTU,Finance
+GABC,Finance
+GBDC,Finance
+GCMG,Finance
+GEHC,Health Care
+GEN,Technology
+GGAL,Finance
+GILD,Health Care
+GLNG,Consumer Discretionary
+GLPI,Real Estate
+GNTX,Consumer Discretionary
+GOODN,Real Estate
+GOOG,Technology
+GOOGL,Technology
+GRFS,Health Care
+GSHD,Finance
+GT,Consumer Discretionary
+GTX,Consumer Discretionary
+HAS,Consumer Discretionary
+HBAN,Finance
+HBANL,Finance
+HBANM,Finance
+HBANP,Finance
+HCSG,Health Care
+HIMX,Technology
+HLNE,Finance
+HON,Industrials
+HOPE,Finance
+HSII,Consumer Discretionary
+HST,Real Estate
+HTHT,Consumer Discretionary
+HTO,Utilities
+HUBG,Industrials
+HWC,Finance
+HWCPZ,Finance
+HWKN,Consumer Discretionary
+IAC,Technology
+IBKR,Finance
+IBOC,Finance
+ICFI,Consumer Discretionary
+IDCC,Miscellaneous
+IEP,Consumer Discretionary
+IGIC,Finance
+IMKTA,Consumer Staples
+IMOS,Technology
+IMPPP,Consumer Discretionary
+INDB,Finance
+INTC,Technology
+INTR,Finance
+INTU,Technology
+INVA,Health Care
+IOSP,Industrials
+IPAR,Consumer Discretionary
+IPGP,Technology
+IRDM,Telecommunications
+IRMD,Health Care
+JBHT,Industrials
+JCAP,Finance
+JD,Consumer Discretionary
+JJSF,Consumer Staples
+JKHY,Technology
+JOYY,Technology
+JSM,Finance
+KALU,Industrials
+KARO,Technology
+KDP,Consumer Staples
+KHC,Consumer Staples
+KLAC,Technology
+KLIC,Technology
+KMB,Consumer Discretionary
+KSPI,
+LAMR,Real Estate
+LAUR,Real Estate
+LBRDP,Telecommunications
+LECO,Industrials
+LFMDP,Health Care
+LFUS,Energy
+LIN,Basic Materials
+LINE,Real Estate
+LKFN,Finance
+LKQ,Consumer Discretionary
+LMAT,Health Care
+LNT,Utilities
+LOGI,Technology
+LPLA,Finance
+LRCX,Technology
+LSTR,Industrials
+MAR,Consumer Discretionary
+MAT,Consumer Discretionary
+MBIN,Finance
+MBINL,Finance
+MBINM,Finance
+MCHB,Finance
+MCHP,Technology
+MCHPP,Technology
+MCRI,Consumer Discretionary
+MDLZ,Consumer Staples
+MELI,Real Estate
+MEOH,Industrials
+META,Technology
+METC,Energy
+MFIC,Finance
+MFICL,Finance
+MGEE,Energy
+MGIC,Technology
+MGRC,Consumer Discretionary
+MIDD,Industrials
+MKSI,Industrials
+MKTX,Finance
+MLCO,Consumer Discretionary
+MLKN,Consumer Discretionary
+MOMO,Technology
+MORN,Finance
+MPWR,Technology
+MRVL,Technology
+MRX,Finance
+MSFT,Technology
+MTCH,Technology
+MU,Technology
+MZTI,Consumer Staples
+NAVI,Finance
+NBTB,Finance
+NDAQ,Finance
+NDSN,Industrials
+NICE,Technology
+NMFCZ,
+NMRK,Finance
+NSSC,Telecommunications
+NTAP,Technology
+NTES,Technology
+NTRS,Finance
+NTRSO,Finance
+NVDA,Technology
+NWBI,Finance
+NWE,Utilities
+NWL,Industrials
+NWS,Consumer Discretionary
+NWSA,Consumer Discretionary
+NXPI,Technology
+NXST,Industrials
+OCFC,Finance
+OCSL,Finance
+ODFL,Industrials
+OLED,Technology
+OMAB,Consumer Discretionary
+ONB,Finance
+ONBPO,Finance
+ONBPP,Finance
+OPRA,Technology
+ORKA,Health Care
+OSBC,Finance
+OSW,Consumer Discretionary
+OTEX,Technology
+OTTR,Utilities
+OXLC,Finance
+OXLCL,Finance
+OXLCN,Finance
+OXLCO,Finance
+OXLCP,Finance
+OXLCZ,Finance
+OXSQG,Consumer Discretionary
+OZK,Finance
+OZKAP,Finance
+PAA,Energy
+PAGP,Energy
+PAHC,Health Care
+PATK,Consumer Discretionary
+PAX,Finance
+PAYX,Industrials
+PCAR,Consumer Discretionary
+PCH,Real Estate
+PEBO,Finance
+PECO,Real Estate
+PEGA,Technology
+PEP,Consumer Staples
+PFBC,Finance
+PFG,Finance
+PLPC,Industrials
+PLTK,Technology
+PLUS,Technology
+PNFP,Finance
+PNFPP,Finance
+POOL,Consumer Discretionary
+POWI,Technology
+POWL,Energy
+POWWP,Industrials
+PPC,Consumer Staples
+PRDO,Real Estate
+PRGS,Technology
+PSEC,Finance
+PSKY,Industrials
+PSMT,Consumer Discretionary
+PTEN,Energy
+PWP,Finance
+PYPL,Industrials
+PZZA,Consumer Discretionary
+QCOM,Technology
+QCRH,Finance
+QFIN,Finance
+RBCAA,Finance
+REG,Real Estate
+REGCO,Real Estate
+REGCP,Real Estate
+REGN,Health Care
+REYN,Consumer Discretionary
+RGLD,Industrials
+RIOT,Finance
+ROCK,Industrials
+ROP,Technology
+ROST,Consumer Discretionary
+RPRX,Health Care
+RRR,Consumer Discretionary
+RUSHA,Consumer Discretionary
+RUSHB,Consumer Discretionary
+RYAAY,Consumer Discretionary
+SAFT,Finance
+SAIC,Technology
+SATA,
+SBAC,Real Estate
+SBCF,Finance
+SBGI,Industrials
+SBLK,Consumer Discretionary
+SBRA,Real Estate
+SBUX,Consumer Discretionary
+SEIC,Finance
+SFD,Consumer Staples
+SFNC,Finance
+SHOO,Consumer Discretionary
+SIGI,Finance
+SIGIP,Finance
+SIMO,Technology
+SIRI,Consumer Discretionary
+SKYW,Consumer Discretionary
+SLM,Finance
+SLMBP,Finance
+SNY,Health Care
+SPNS,Technology
+SRCE,Finance
+SSNC,Technology
+SSRM,Industrials
+STBA,Finance
+STEP,Finance
+STGW,Consumer Discretionary
+STLD,Industrials
+STRA,Real Estate
+STRC,Technology
+STRD,Technology
+STRF,Technology
+STRK,Technology
+STX,Technology
+SWKS,Technology
+SYBT,Finance
+TCBK,Finance
+TCOM,Real Estate
+TECH,Health Care
+TER,Industrials
+TFSL,Finance
+TIGO,Telecommunications
+TILE,Consumer Discretionary
+TMUS,Telecommunications
+TOWN,Finance
+TPG,Finance
+TPGXL,
+TRI,Consumer Discretionary
+TRIN,Finance
+TRINI,Finance
+TRINZ,Finance
+TRIP,Technology
+TRMD,Consumer Discretionary
+TRMK,Finance
+TROW,Finance
+TRS,Industrials
+TSCO,Consumer Discretionary
+TSEM,Technology
+TTEK,Consumer Discretionary
+TW,Finance
+TXN,Technology
+TXRH,Consumer Discretionary
+UBSI,Finance
+UFPI,Basic Materials
+UMBF,Finance
+UMBFO,Finance
+UNIT,Real Estate
+UPBD,Consumer Discretionary
+USLM,Industrials
+VC,Consumer Discretionary
+VCTR,Finance
+VEON,Telecommunications
+VLY,Finance
+VLYPN,Finance
+VLYPO,Finance
+VLYPP,Finance
+VNOM,Energy
+VOD,Telecommunications
+VRSK,Industrials
+VRSN,Technology
+VSEC,Consumer Discretionary
+VTRS,Health Care
+WABC,Finance
+WAFD,Finance
+WAFDP,Finance
+WB,Technology
+WDC,Technology
+WDFC,Industrials
+WEN,Consumer Discretionary
+WERN,Industrials
+WFRD,Consumer Discretionary
+WINA,Consumer Discretionary
+WING,Consumer Discretionary
+WMG,Consumer Discretionary
+WSBC,Finance
+WSBCO,Finance
+WSC,Industrials
+WSFS,Finance
+WTFC,Finance
+WTFCN,Finance
+WTW,Finance
+WULF,Technology
+WWD,Energy
+WYNN,Consumer Discretionary
+XEL,Utilities
+XP,Finance
+XRAY,Health Care
+ZD,Telecommunications
+ZION,Finance
+ZIONP,Finance

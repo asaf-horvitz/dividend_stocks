@@ -14,7 +14,17 @@ def _load_dividend_symbols():
     if not os.path.exists(_DIVIDEND_SYMBOLS_FILE):
         return set()
     with open(_DIVIDEND_SYMBOLS_FILE, "r") as f:
-        return set(line.strip() for line in f if line.strip())
+        # Handle both "Symbol" and "Symbol,Sector" formats
+        symbols = set()
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            if "," in line:
+                symbols.add(line.split(",")[0])
+            else:
+                symbols.add(line)
+        return symbols
 
 def _load_all_symbols():
     """Loads all stock symbols from CSV."""
@@ -115,8 +125,12 @@ def load_data():
     df["Market Cap Value"] = pd.to_numeric(df["Market Cap"], errors='coerce')
     df["Market Cap"] = df["Market Cap Value"].apply(_format_market_cap)
     
+    # Ensure Sector column exists (it should be in all_symbols.csv now)
+    if "Sector" not in df.columns:
+        df["Sector"] = "Unknown"
+
     print(f"Loaded {len(df)} stocks.")
-    return df[["Symbol", "Market Cap", "Market Cap Value", "Yearly Dividend", "tooltip"]]
+    return df[["Symbol", "Sector", "Market Cap", "Market Cap Value", "Yearly Dividend", "tooltip"]]
 
 app = dash.Dash(__name__)
 
@@ -133,6 +147,7 @@ app.layout = html.Div([
             columns=[
                 {"name": "Symbol", "id": "Symbol"},
                 {"name": "Yearly Dividend", "id": "Yearly Dividend"},
+                {"name": "Sector", "id": "Sector"},
                 {"name": "Market Cap (Billions)", "id": "Market Cap"}
             ],
             data=df.to_dict('records'),

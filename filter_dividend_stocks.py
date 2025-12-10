@@ -36,11 +36,23 @@ def filter_dividend_stocks() -> None:
         except Exception as e:
             print(f"Error reading {filename}: {e}")
 
-    # Write symbols to file
+    # Load sectors from all_symbols.csv
+    symbol_sectors = {}
+    try:
+        import csv
+        with open("all_symbols.csv", "r") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                symbol_sectors[row["Symbol"]] = row.get("Sector", "Unknown")
+    except Exception as e:
+        print(f"Error reading all_symbols.csv: {e}")
+
+    # Write symbols and sectors to file
     try:
         with open(_OUTPUT_FILE, "w") as f:
             for symbol in sorted(dividend_symbols):
-                f.write(f"{symbol}\n")
+                sector = symbol_sectors.get(symbol, "Unknown")
+                f.write(f"{symbol},{sector}\n")
         print(f"Successfully wrote {len(dividend_symbols)} symbols to {_OUTPUT_FILE}")
     except Exception as e:
         print(f"Error writing to {_OUTPUT_FILE}: {e}")

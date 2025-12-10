@@ -29,17 +29,22 @@ def _parse_market_cap(market_cap_str: str) -> float:
         return 0.0
 
 def _extract_symbols(data: Dict[str, Any]) -> List[Dict[str, str]]:
-    """Extracts symbol and market cap from the API response, filtering by market cap."""
+    """Extracts symbol, market cap, and sector from the API response, filtering by market cap."""
     rows = data.get("data", {}).get("rows", [])
     extracted_data = []
     for row in rows:
         symbol = row.get("symbol")
         market_cap_str = row.get("marketCap")
+        sector = row.get("sector", "Unknown")
         
         market_cap_val = _parse_market_cap(market_cap_str)
         
         if symbol and market_cap_val >= _MIN_MARKET_CAP:
-             extracted_data.append({"Symbol": symbol, "Market Cap": f"{market_cap_val:.2f}"})
+             extracted_data.append({
+                 "Symbol": symbol, 
+                 "Market Cap": f"{market_cap_val:.2f}",
+                 "Sector": sector
+             })
     return extracted_data
 
 def _write_to_csv(data: List[Dict[str, str]], filename: str) -> None:
@@ -48,7 +53,7 @@ def _write_to_csv(data: List[Dict[str, str]], filename: str) -> None:
         print("No data to write.")
         return
     
-    fieldnames = ["Symbol", "Market Cap"]
+    fieldnames = ["Symbol", "Market Cap", "Sector"]
     with open(filename, "w", newline="") as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
